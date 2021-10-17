@@ -1,7 +1,7 @@
 FROM alpine:3
 
-LABEL maintainer="luyuqiuchen" \
-      email="luyuqiuchen@163.com"
+LABEL maintainer="luyuqiuchenaly2" \
+      email="luyuqiuchen@qq.com"
 
 WORKDIR /opt/helloci
 
