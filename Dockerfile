@@ -1,7 +1,7 @@
 FROM alpine:3
 
-LABEL maintainer="Lingfei Kong" \
-      email="colin404@foxmail.com"
+LABEL maintainer="luyuqiuchen" \
+      email="luyuqiuchen@163.com"
 
 WORKDIR /opt/helloci
 
